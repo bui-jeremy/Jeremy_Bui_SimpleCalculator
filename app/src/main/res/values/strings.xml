@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">[Jeremy Bui]-SimpleCalculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="simple_calculator">Simple Calculator</string>
+    <string name="enter_first_value">Enter first value…</string>
+    <string name="enter_second_value">Enter second value…</string>
+    <string name="spinner_prompt">Choose an operation</string>
+    <string name="an_error_occured_please_retry_the_number_values">An error occured. Please retry the number values.</string>
+    <string name="please_enter_valid_numbers">Please enter valid numbers</string>
+    <string-array name="operations_array">
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Multiply</item>
+        <item>Divide</item>
+        <item>Modulus</item>
+    </string-array>
+</resources>
