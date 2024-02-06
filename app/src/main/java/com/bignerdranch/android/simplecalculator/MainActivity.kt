@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() {
                     result = "Cannot divide by zero."
                 }
             } else if (operation == "Modulus"){
-                num1 % num2
+                result = num1 % num2
             } else {
                 result = "Invalid operation"
             }
